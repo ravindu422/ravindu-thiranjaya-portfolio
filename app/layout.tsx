@@ -21,7 +21,7 @@ const dmMono = DM_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Alex Mercer — Full Stack Developer",
+  title: "Ravindu Thiranjaya Portfolio",
   description:
     "Full Stack Developer crafting end-to-end web applications with a focus on clarity and craft.",
 };
