@@ -23,7 +23,7 @@ const dmMono = DM_Mono({
 export const metadata: Metadata = {
   title: "Ravindu Thiranjaya Portfolio",
   description:
-    "Full Stack Developer crafting end-to-end web applications with a focus on clarity and craft.",
+    "Full Stack Developer crafting scalable end-to-end web applications with a focus on clarity and craft.",
 };
 
 export default function RootLayout({
